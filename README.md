@@ -13,6 +13,14 @@ Javascript, HTML, CSS...
 I'm a full stack developer...
 
 
+## Demo
+
+inter the linke (Demo) to view my website
+
+
+[Demo](https://ust-test.github.io/lec7g3/)
+
+
 ## Used By
 
 This project is used by the following companies:
@@ -48,6 +56,7 @@ To run tests, run the following command
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
 ## Installation
 
 Install my-project with npm
@@ -74,9 +83,7 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-## Demo
 
-Insert gif or link to demo
 
 ## Color Reference
 
